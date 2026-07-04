@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alfirdaus248.github.io/lab-seo-pribadi/sitemap.xml
